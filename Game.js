@@ -9,4 +9,8 @@ class Game {
         new Player('Player 2', 2, '#fc02b1')];
         return players
     }
+    //gets game ready for play
+    startGame() {
+
+    }
 }
